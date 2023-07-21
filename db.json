@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+        "id": 1,
+        "name": "Asiatic jackal",
+        "category": "Indigo"
+    },
+    {
+        "id": 2,
+        "name": "Pied butcher bird",
+        "category": "Blue"
+    },
+    {
+        "id": 3,
+        "name": "Sage grouse",
+        "category": "Aquamarine"
+    },
+    {
+        "id": 4,
+        "name": "Red-billed buffalo weaver",
+        "category": "Puce"
+    },
+    {
+        "id": 5,
+        "name": "Western lowland gorilla",
+        "category": "Mauv"
+    },
+    {
+        "id": 6,
+        "name": "Kongoni",
+        "category": "Mauv"
+    },
+    {
+        "id": 7,
+        "name": "Deer, barasingha",
+        "category": "Yellow"
+    },
+    {
+        "id": 8,
+        "name": "Magpie, australian",
+        "category": "Goldenrod"
+    },
+    {
+        "id": 9,
+        "name": "Radiated tortoise",
+        "category": "Maroon"
+    },
+    {
+        "id": 10,
+        "name": "Seal, northern fur",
+        "category": "Violet"
+    },
+    {
+        "id": 11,
+        "name": "Goose, egyptian",
+        "category": "Red"
+    },
+    {
+        "id": 12,
+        "name": "Peacock, blue",
+        "category": "Indigo"
+    },
+    {
+        "id": 13,
+        "name": "Oryx, fringe-eared",
+        "category": "Goldenrod"
+    },
+    {
+        "id": 14,
+        "name": "Dove, white-winged",
+        "category": "Puce"
+    },
+    {
+        "id": 15,
+        "name": "Dragonfly, russian",
+        "category": "Violet"
+    },
+    {
+        "id": 16,
+        "name": "Helmeted guinea fowl",
+        "category": "Crimson"
+    },
+    {
+        "id": 17,
+        "name": "Black-capped chickadee",
+        "category": "Yellow"
+    },
+    {
+        "id": 18,
+        "name": "Vulture, turkey",
+        "category": "Turquoise"
+    },
+    {
+        "id": 19,
+        "name": "Goose, knob-nosed",
+        "category": "Purple"
+    },
+    {
+        "id": 20,
+        "name": "Beaver, north american",
+        "category": "Mauv"
+    }
+]
+}  
